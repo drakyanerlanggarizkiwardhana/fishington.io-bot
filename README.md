@@ -5,9 +5,6 @@
 
 ![botss](https://user-images.githubusercontent.com/48323786/132136574-7aab9df9-e19a-4fcf-ab8e-90d9c45ab57c.gif)
 
-# Video Link
- - https://www.youtube.com/watch?v=X2bRXcCvmKY
-
 # How to Use 
  - Open CMD in `fishington.io-bot` folder and type `pip install -r requirements.txt`
  - run the bot and switch to the window running fishington (you have 5 seconds until it starts fishing)
